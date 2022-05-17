@@ -1,5 +1,5 @@
-### Beginner Workshops for Young Professionals in Transportation
-**Greater NYC Chapter (YPT-NYC)**  
+### Python Beginner Workshops for Data Analysis 
+**Young Professionals in Transportation - Greater NYC Chapter (YPT-NYC)**  
 *Mark Bauer*
 
 ### Events
