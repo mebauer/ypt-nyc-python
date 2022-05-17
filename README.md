@@ -1,14 +1,15 @@
-# Introduction to Data Analysis Using Python
-**Analyzing NYC Citi Bike Trip Data for August 2021**
+### Beginner Workshops for Young Professionals in Transportation
+**Greater NYC Chapter (YPT-NYC)**
 
 *Mark Bauer*
 
+### Events
+1. Analyzing NYC Citi Bike Trip Data for August 2021
 
-### Event
-Beginner Workshop for Young Professionals in Transportation - Greater NYC Chapter (YPT-NYC).
+2. Analyzing NYC Subway Entrances at Risk from Another Hurricane Sandy
 
-### Notebook
-The analysis can be found in the notebook [citibike-analysis.ipynb](https://github.com/mebauer/ypt-nyc-python/blob/main/citibike-analysis.ipynb).
+### Notebooks
+The Citi Bike analysis can be found in the notebook [citibike-analysis.ipynb](https://github.com/mebauer/ypt-nyc-python/blob/main/citibike-analysis.ipynb), and the NYC Subway Entrances Flood Risk in the notebook [subways-flood-risk.ipynb](). 
 
 ### Follow Along
 Run [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mebauer/ypt-nyc-python/HEAD) in your browser to follow along.
