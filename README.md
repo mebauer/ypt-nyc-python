@@ -18,6 +18,10 @@ Run [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/
 Subways GIS Workshop:  
 Run the [Google Colab Notebook](https://colab.research.google.com/drive/1a4gQuE1kJHY1e4-dIGn3KVWp8eLkbyFP?usp=sharing) in your browser to follow along. Note: Installing GeoPandas on Google Colab is sometimes difficult. I install GeoPandas with Anaconda / conda. This is my preferred method. Additionally, please refer to the official docs: https://geopandas.org/en/stable/getting_started/install.html.  
 
+### Additional Resources (by me!)
+
+[Data Analysis Using Python: A Beginner’s Guide Featuring NYC Open Data](https://github.com/mebauer/data-analysis-using-python) - Part 4: Working with geospatial data and mapping.  
+
 ### Say Hello!   
 
 I can be reached at:  
