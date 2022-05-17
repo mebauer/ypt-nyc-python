@@ -1,5 +1,5 @@
 ### Beginner Workshops for Young Professionals in Transportation
-**Greater NYC Chapter (YPT-NYC)**
+**Greater NYC Chapter (YPT-NYC)**  
 *Mark Bauer*
 
 ### Events
